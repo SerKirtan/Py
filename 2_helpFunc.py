@@ -1,2 +1,0 @@
-help(round)
-help(print)
